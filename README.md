@@ -1,7 +1,7 @@
 ## About The Project
 TinDog, the dating app for dogs.
 One page website developed using jQuery and Bootstrap.
-![ScreenShot](https://github.com/marinaadlc/TinDog.git/blob/master/screenshot/screenshot1.png)
+![ScreenShot](https://github.com/marinaadlc/TinDog/blob/master/screenshots/screenshot1.png)
 
 
 ## Installation
